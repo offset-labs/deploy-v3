@@ -1,4 +1,4 @@
-import UniswapV3Staker from '@uniswap/v3-staker/artifacts/contracts/UniswapV3Staker.sol/UniswapV3Staker.json'
+import UniswapV3Staker from '@offsetcarbon/v3-staker/artifacts/contracts/UniswapV3Staker.sol/UniswapV3Staker.json'
 import createDeployContractStep from './meta/createDeployContractStep'
 
 const ONE_MINUTE_SECONDS = 60
